@@ -1,0 +1,928 @@
+SKU,Item Name,UOM,Category,Item Type,Sold out Type,Item In/Out,User Name,User Id,Date and Time,Business Date,Branch Name,Branch Code,dt
+82,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,Manager Wazirabad,MWZBD,2026-10-05 09:51:22,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:22
+81,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,Manager Wazirabad,MWZBD,2026-10-05 09:51:22,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:22
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,Manager Wazirabad,MWZBD,2026-10-05 09:51:22,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:22
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,Manager Wazirabad,MWZBD,2026-10-05 09:51:22,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:22
+83,Lotus Biscoff Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,Manager Wazirabad,MWZBD,2026-10-05 09:51:22,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:22
+82,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager Wazirabad,MWZBD,2026-10-05 09:51:47,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:47
+81,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager Wazirabad,MWZBD,2026-10-05 09:51:47,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:47
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager Wazirabad,MWZBD,2026-10-05 09:51:47,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:47
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager Wazirabad,MWZBD,2026-10-05 09:51:47,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:47
+83,Lotus Biscoff Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Manager Wazirabad,MWZBD,2026-10-05 09:51:47,2026-10-05,Harley's - GUR - Wazirabad,WZBD,2026-10-05 09:51:47
+23,Belgium Chocolate Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,Manager DLF,MDLF,2026-10-05 09:15:05,2026-10-05,Harley's - GUR - DLF,DLF,2026-10-05 09:15:05
+22,Belgium Chocolate Criossant,ea,Croissants,Product,Direct,IN,Basavanagudi,SS4KLH,2026-10-05 09:32:05,2026-10-05,Harley's - BLR - BSVG,BSVG,2026-10-05 09:32:05
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,Basavanagudi,SS4KLH,2026-10-05 09:32:05,2026-10-05,Harley's - BLR - BSVG,BSVG,2026-10-05 09:32:05
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,OUT,Basavanagudi,SS4KLH,2026-10-05 09:32:16,2026-10-05,Harley's - BLR - BSVG,BSVG,2026-10-05 09:32:16
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,Basavanagudi,SS4KLH,2026-10-05 09:32:25,2026-10-05,Harley's - BLR - BSVG,BSVG,2026-10-05 09:32:25
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:11,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:11
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:11,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:11
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:11,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:11
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:11,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:11
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:11,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:11
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:11,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:11
+120,Smoky Caramel Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:27,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:27
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:27,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:27
+78,Lotus Biscoff Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,Srivanas Manager SNK,VH7VBT,2026-10-05 10:57:27,2026-10-05,Harley's - HYD - Sainikpuri Outlet,SNK,2026-10-05 10:57:27
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,KRM CLOUD 1,CLOUD 1,2026-10-05 09:28:27,2026-10-05,Harley's - BLR - Koramangala,KOR,2026-10-05 09:28:27
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,KRM CLOUD 1,CLOUD 1,2026-10-05 09:28:27,2026-10-05,Harley's - BLR - Koramangala,KOR,2026-10-05 09:28:27
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,KRM CLOUD 1,CLOUD 1,2026-10-05 09:29:04,2026-10-05,Harley's - BLR - Koramangala,KOR,2026-10-05 09:29:04
+100,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,KRM CLOUD 1,CLOUD 1,2026-10-05 10:00:58,2026-10-05,Harley's - BLR - Koramangala,KOR,2026-10-05 10:00:58
+101,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,KRM CLOUD 1,CLOUD 1,2026-10-05 10:00:58,2026-10-05,Harley's - BLR - Koramangala,KOR,2026-10-05 10:00:58
+95,Pack Of 6 Medoviks And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,MAHA MANAGER 1,MANAGER 1,2026-10-05 11:00:43,2026-10-05,Harley's - BLR - Mahadevapura,MAH,2026-10-05 11:00:43
+94,Pack Of 6 Cheesecakes And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,MAHA MANAGER 1,MANAGER 1,2026-10-05 11:00:43,2026-10-05,Harley's - BLR - Mahadevapura,MAH,2026-10-05 11:00:43
+134,Assorted French Macarons (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,MAHA MANAGER 1,MANAGER 1,2026-10-05 11:00:43,2026-10-05,Harley's - BLR - Mahadevapura,MAH,2026-10-05 11:00:43
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,MAHA MANAGER 1,MANAGER 1,2026-10-05 11:40:31,2026-10-05,Harley's - BLR - Mahadevapura,MAH,2026-10-05 11:40:31
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,BEL CLOUD 1,CLOUD 1,2026-10-05 09:50:54,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:50:54
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,BEL CLOUD 1,CLOUD 1,2026-10-05 09:50:54,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:50:54
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,BEL CLOUD 1,CLOUD 1,2026-10-05 09:51:07,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:51:07
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,BEL CLOUD 1,CLOUD 1,2026-10-05 09:51:15,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:51:15
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,BEL CLOUD 1,CLOUD 1,2026-10-05 09:52:34,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:52:34
+26,Blueberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,BEL CLOUD 1,CLOUD 1,2026-10-05 09:52:34,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:52:34
+61,Green Apple Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,BEL CLOUD 1,CLOUD 1,2026-10-05 09:52:34,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:52:34
+111,Red Velvet Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,BEL CLOUD 1,CLOUD 1,2026-10-05 09:52:34,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:52:34
+96,Pack Of 9 Cheesecakes And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,BEL CLOUD 1,CLOUD 1,2026-10-05 09:52:52,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:52:52
+94,Pack Of 6 Cheesecakes And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,BEL CLOUD 1,CLOUD 1,2026-10-05 09:52:52,2026-10-05,Harley's - BLR - Bellandur,BEL,2026-10-05 09:52:52
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,KAL CLOUD 2,CLOUD 2,2026-10-05 11:48:45,2026-10-05,Harley's - BLR - Kalyan Nagar,KAL,2026-10-05 11:48:45
+114,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:13,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:13
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:13,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:13
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:13,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:13
+44,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:13,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:13
+116,Signature Belgium Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:42,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:42
+124,Sparkling Dark Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:42,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:42
+129,Swiss Black & White Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:42,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:42
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:42,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:42
+46,Danish Hazelnut Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:42,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:42
+55,Ferrero Nutella Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 09:59:42,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 09:59:42
+93,Pack Of 4 Medoviks And 4 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 10:00:02,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 10:00:02
+95,Pack Of 6 Medoviks And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 10:00:02,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 10:00:02
+97,Pack Of 9 Medoviks And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 10:00:02,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 10:00:02
+139,Assorted Medoviks (Pack Of 6),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 10:00:22,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 10:00:22
+138,Assorted Medoviks (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,ARE CLOUD 1,CLOUD 1,2026-10-05 10:00:22,2026-10-05,Harley's - BLR - Arekere,ARE,2026-10-05 10:00:22
+72,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+132,Assorted Cheesecakes (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,DIL MANAGER1,MANAGER1,2026-10-05 09:51:53,2026-10-05,Harley's - HYD - Dilshuknagar,DIL,2026-10-05 09:51:53
+33,Choco Mawa Bar Cake 250 gms,ea,Barcakes & Muffins,Product,Direct,IN,MGR UDY NCR,MGRUDY1,2026-10-05 09:05:17,2026-10-05,Harley's - GUR - Udyod Vihar,UDY,2026-10-05 09:05:17
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,MGR UDY NCR,MGRUDY1,2026-10-05 09:05:17,2026-10-05,Harley's - GUR - Udyod Vihar,UDY,2026-10-05 09:05:17
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:12:31,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:12:31
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:12:31,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:12:31
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:12:31,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:12:31
+NEW50,Classic Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:13:50,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:13:50
+NEW47,Belgium Double Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:14:11,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:14:11
+NEW44,Dubai Pistachio Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:14:18,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:14:18
+NEW51,Choco Medovik Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:14:34,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:14:34
+NEW52,Choco Mocha Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:14:45,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:14:45
+NEW63,Cafe Mocha,ea,Coffee Brews (Hot),Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:14:56,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:14:56
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+114,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:25,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:25
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:48,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:48
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,SEN1 VIJAY,SEN1VIJ,2026-10-05 08:26:48,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 08:26:48
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:21,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:21
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:21,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:21
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+114,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,SEN1 VIJAY,SEN1VIJ,2026-10-05 10:18:52,2026-10-05,Harley's - Vijayawada - Sentini Mall,SEN,2026-10-05 10:18:52
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+101,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+100,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+102,Pistachio Delight Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+74,Italian Tiramisu Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+111,Red Velvet Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,BHA VIJ,BHA1,2026-10-05 11:26:11,2026-10-05,Harley's - VIJAYAWADA - Bhavanipuram,BPM,2026-10-05 11:26:11
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+111,Red Velvet Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+98,Passion Fruit & Lemon Fusion Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+85,Mighty Mango Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+61,Green Apple Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+56,French Vanilla Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+37,Clementine Orange Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+26,Blueberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+23,Belgium Chocolate Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:03:57,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:03:57
+135,Assorted French Macarons (Pack Of 24),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:04:15,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:04:15
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,LAB VIJ,LAB1,2026-10-05 09:04:40,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 09:04:40
+135,Assorted French Macarons (Pack Of 24),ea,Harley's Sweet Home Assortments,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:26:40,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:26:40
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+85,Mighty Mango Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+61,Green Apple Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+56,French Vanilla Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+37,Clementine Orange Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+26,Blueberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+23,Belgium Chocolate Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:27:51,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:27:51
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:05,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:05
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:05,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:05
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:13,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:13
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+73,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+72,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+100,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+101,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+45,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:30,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:30
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAB VIJ,LAB1,2026-10-05 10:28:37,2026-10-05,Harley's - VIJAYAWADA - Labbipet,LAB,2026-10-05 10:28:37
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,OUT,MDG VIMAN PUNE,MGRVIM1,2026-10-05 11:21:33,2026-10-05,Harley's - PUNE - Viman Nagar,VIM,2026-10-05 11:21:33
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+152,Belgium Chocolate Tres Leches [Pack of 2],ea,Exotic Tresley Cakes,Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+150,Lotus Biscoff Tres Leches [Pack of 2],ea,Exotic Tresley Cakes,Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+147,Classic Mexican Tres Leches [Pack Of 2],ea,Exotic Tresley Cakes,Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+154,Exotic Tresley Cakes [Pack of 6],ea,Assorted Tresley Cake Packs,Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 07:26:07,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 07:26:07
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 08:18:39,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 08:18:39
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,BSE1 MUM,BSE1,2026-10-05 08:18:39,2026-10-05,Harley's - MUM - BSE,BSE,2026-10-05 08:18:39
+74,Italian Tiramisu Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:45:06,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:45:06
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:45:47,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:45:47
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:45:47,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:45:47
+NEW63,Cafe Mocha,ea,Coffee Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:51:43,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:51:43
+NEW62,Roasted Hazelnut Cappuccino,ea,Coffee Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:51:43,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:51:43
+NEW61,Espresso (Doppio),ea,Coffee Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:51:43,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:51:43
+NEW60,Cafe Latte,ea,Coffee Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:51:43,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:51:43
+NEW59,Italian Cappuccino,ea,Coffee Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:51:43,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:51:43
+NEW58,Classic Americano,ea,Coffee Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:51:43,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:51:43
+NEW57,Iced Americano,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:02,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:02
+NEW55,All Time Classic Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:02,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:02
+NEW54,Vietnamese Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:02,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:02
+NEW53,White Russian Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:02,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:02
+NEW51,Choco Medovik Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:13,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:13
+NEW50,Classic Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:13,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:13
+NEW49,Danish Hazelnut Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,OUT,MGR JIO MUM,MGRJIO1,2026-10-05 09:52:13,2026-10-05,Harley's - MUM - Jio World,JW,2026-10-05 09:52:13
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,Borivali2 MUM,BOR2,2026-10-05 11:50:43,2026-10-05,Harley's - MUM - Borivali,BOR,2026-10-05 11:50:43
+NEW56,Signature Cold Coffee Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW40,Tiramisu Medovik Coffee Shake,ea,Cake Shake Indulgence,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+K3G17,Caffe Latte,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+K3G6,Espresso Single Shot,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW63,Cafe Mocha,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW62,Roasted Hazelnut Cappuccino,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW61,Espresso (Doppio),ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW60,Cafe Latte,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW59,Italian Cappuccino,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW58,Classic Americano,ea,Coffee Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW43,House Blend Roasted Hazelnut Shake,ea,Cake Shake Indulgence,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW42,Italian Pistachio Medovik Shake,ea,Cake Shake Indulgence,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW41,Belgium Chocolate Medovik Shake,ea,Cake Shake Indulgence,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW39,American Blueberry Cake Shake,ea,Cake Shake Indulgence,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW47,Belgium Double Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW46,American Almond Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW45,Danish Hazelnut Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW44,Dubai Pistachio Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:31,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:31
+NEW55,All Time Classic Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:39,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:39
+NEW54,Vietnamese Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:39,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:39
+NEW53,White Russian Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:39,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:39
+NEW52,Choco Mocha Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:39,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:39
+NEW57,Iced Americano,ea,Coffee Brews (Cold),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 07:52:39,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 07:52:39
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:29:52,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:29:52
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 08:31:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:31:25
+NEW51,Choco Medovik Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 08:43:53,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:43:53
+NEW50,Classic Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 08:43:53,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:43:53
+NEW49,Danish Hazelnut Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 08:43:53,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:43:53
+NEW55,All Time Classic Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JP BNG,MGRJP1,2026-10-05 08:52:26,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:52:26
+NEW54,Vietnamese Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JP BNG,MGRJP1,2026-10-05 08:52:26,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:52:26
+NEW53,White Russian Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,OUT,MGR JP BNG,MGRJP1,2026-10-05 08:52:26,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 08:52:26
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:27,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:27
+114,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:27,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:27
+45,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:40
+44,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:40
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:49,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:49
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:49,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:49
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:57,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:57
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:05:57,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:05:57
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:06:05,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:06:05
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:06:05,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:06:05
+NEW56,Signature Cold Coffee Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:19:48,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:19:48
+NEW47,Belgium Double Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:19:48,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:19:48
+NEW46,American Almond Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:19:48,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:19:48
+NEW45,Danish Hazelnut Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:19:48,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:19:48
+NEW44,Dubai Pistachio Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 09:19:48,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 09:19:48
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 10:53:03,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 10:53:03
+147,Classic Mexican Tres Leches [Pack Of 2],ea,Exotic Tresley Cakes,Product,Direct,OUT,JP 1 BNG,JPN1,2026-10-05 10:53:03,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 10:53:03
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+114,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+45,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+44,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:05:55,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:05:55
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:06:19,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:06:19
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+111,Red Velvet Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+98,Passion Fruit & Lemon Fusion Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+56,French Vanilla Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+23,Belgium Chocolate Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+37,Clementine Orange Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+61,Green Apple Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:40,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:40
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:50,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:50
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:50,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:50
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:50,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:50
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:58,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:58
+22,Belgium Chocolate Criossant,ea,Croissants,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:41:58,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:41:58
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:42:16,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:42:16
+147,Classic Mexican Tres Leches [Pack Of 2],ea,Exotic Tresley Cakes,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:42:25,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:42:25
+135,Assorted French Macarons (Pack Of 24),ea,Harley's Sweet Home Assortments,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:43:17,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:43:17
+134,Assorted French Macarons (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:43:17,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:43:17
+136,Assorted French Macarons (Pack Of 5),ea,Harley's Sweet Home Assortments,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:43:17,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:43:17
+94,Pack Of 6 Cheesecakes And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:44:14,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:44:14
+95,Pack Of 6 Medoviks And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:44:14,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:44:14
+NEW100,Cheese Corn Croissant Burger,ea,Croissant Burgers,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:44:47,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:44:47
+NEW99,Spinach & Corn Croissant Burger,ea,Croissant Burgers,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:44:47,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:44:47
+NEW98,Diced Paneer Croissant Cheese Burger,ea,Croissant Burgers,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:44:47,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:44:47
+NEW97,Classic Veg Croissant Burger,ea,Croissant Burgers,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:44:47,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:44:47
+NEW103,Classic Butter Croissant,ea,Croissants,Product,Direct,IN,JP 1 BNG,JPN1,2026-10-05 11:45:04,2026-10-05,Harley's - BLR - JP Nagar,JPN,2026-10-05 11:45:04
+72,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,TAB1 MOA BNG,TABMOA1,2026-10-05 10:23:22,2026-10-05,Harley's - BLR - Mall of Asia,MOA,2026-10-05 10:23:22
+NEW204,Exotic Tresley Cakes (Pack of 6),ea,Harley's Sweet Home Assortments,Product,Direct,IN,MNG PTP,MGRPTP1,2026-10-05 11:38:44,2026-10-05,Harley's - BLR - Prestige Tech Park,PTP,2026-10-05 11:38:44
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,Whitefield2 BNG,WHT2,2026-10-05 10:33:28,2026-10-05,Harley's - BLR - Whitefield,WHT,2026-10-05 10:33:28
+138,Assorted Medoviks (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,IN,Whitefield2 BNG,WHT2,2026-10-05 10:33:50,2026-10-05,Harley's - BLR - Whitefield,WHT,2026-10-05 10:33:50
+132,Assorted Cheesecakes (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,IN,Whitefield2 BNG,WHT2,2026-10-05 10:33:50,2026-10-05,Harley's - BLR - Whitefield,WHT,2026-10-05 10:33:50
+96,Pack Of 9 Cheesecakes And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,Malleshwaram BNG,MSW1,2026-10-05 09:01:30,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:01:30
+97,Pack Of 9 Medoviks And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,Malleshwaram BNG,MSW1,2026-10-05 09:01:34,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:01:34
+129,Swiss Black & White Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,Malleshwaram BNG,MSW1,2026-10-05 09:01:41,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:01:41
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:19:34,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:19:34
+16,Austrian White Forest Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:19:34,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:19:34
+57,French Vanilla Rose Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:19:34,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:19:34
+74,Italian Tiramisu Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:19:34,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:19:34
+55,Ferrero Nutella Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:19:38,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:19:38
+129,Swiss Black & White Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:19:38,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:19:38
+82,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+81,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+14,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+108,Premium Butterscotch Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+109,Premium Butterscotch Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+67,Harley's Spl. Classic Russian Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+66,Harley's Spl. Classic Russian Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:05,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:05
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:18,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:18
+51,Ferrero Nutella Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:18,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:18
+63,Harley's Signatures (Pack of 8),ea,Chef's Table,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:25,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:25
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:37,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:37
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:37,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:37
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:37,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:37
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:37,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:37
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:37,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:37
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:37,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:37
+96,Pack Of 9 Cheesecakes And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:46,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:46
+97,Pack Of 9 Medoviks And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:20:46,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:20:46
+138,Assorted Medoviks (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:21:03,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:21:03
+133,Assorted Cheesecakes (Pack Of 6),ea,Harley's Sweet Home Assortments,Product,Direct,IN,Malleshwaram BNG,MSW1,2026-10-05 09:21:03,2026-10-05,Harley's - BLR - Malleshwaram,MSW,2026-10-05 09:21:03
+73,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,BAS2 BNG,BAS2,2026-10-05 08:51:31,2026-10-05,Harley's - BLR - Basaveshwara Nagar,BAS,2026-10-05 08:51:31
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,BAS2 BNG,BAS2,2026-10-05 09:30:01,2026-10-05,Harley's - BLR - Basaveshwara Nagar,BAS,2026-10-05 09:30:01
+92,Pack Of 4 Cheesecakes And 4 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,New Bel Road BNG,BELN1,2026-10-05 11:09:03,2026-10-05,Harley's - BLR- New Bel Road,BELN,2026-10-05 11:09:03
+93,Pack Of 4 Medoviks And 4 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,New Bel Road BNG,BELN1,2026-10-05 11:09:03,2026-10-05,Harley's - BLR- New Bel Road,BELN,2026-10-05 11:09:03
+136,Assorted French Macarons (Pack Of 5),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,New Bel Road BNG,BELN1,2026-10-05 11:09:03,2026-10-05,Harley's - BLR- New Bel Road,BELN,2026-10-05 11:09:03
+134,Assorted French Macarons (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,OUT,New Bel Road BNG,BELN1,2026-10-05 11:09:03,2026-10-05,Harley's - BLR- New Bel Road,BELN,2026-10-05 11:09:03
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,Nagawara BNG,NAG1,2026-10-05 11:51:15,2026-10-05,Harley's - BLR - Nagawara,NAG,2026-10-05 11:51:15
+61,Green Apple Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,Nagawara BNG,NAG1,2026-10-05 11:51:15,2026-10-05,Harley's - BLR - Nagawara,NAG,2026-10-05 11:51:15
+56,French Vanilla Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,Nagawara BNG,NAG1,2026-10-05 11:51:15,2026-10-05,Harley's - BLR - Nagawara,NAG,2026-10-05 11:51:15
+NEW63,Cafe Mocha,ea,Coffee Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW62,Roasted Hazelnut Cappuccino,ea,Coffee Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW61,Espresso (Doppio),ea,Coffee Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW60,Cafe Latte,ea,Coffee Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW59,Italian Cappuccino,ea,Coffee Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW58,Classic Americano,ea,Coffee Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW57,Iced Americano,ea,Coffee Brews (Cold),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW55,All Time Classic Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW54,Vietnamese Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW53,White Russian Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW52,Choco Mocha Cold Coffee,ea,Coffee Brews (Cold),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW56,Signature Cold Coffee Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW47,Belgium Double Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW46,American Almond Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW45,Danish Hazelnut Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW44,Dubai Pistachio Chocolate Frappe,ea,Cocoa Brews (Chocolate Frappe),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW51,Choco Medovik Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW50,Classic Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW49,Danish Hazelnut Hot Chocolate,ea,Cocoa Brews (Hot),Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW43,House Blend Roasted Hazelnut Shake,ea,Cake Shake Indulgence,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW42,Italian Pistachio Medovik Shake,ea,Cake Shake Indulgence,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW41,Belgium Chocolate Medovik Shake,ea,Cake Shake Indulgence,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW40,Tiramisu Medovik Coffee Shake,ea,Cake Shake Indulgence,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+NEW39,American Blueberry Cake Shake,ea,Cake Shake Indulgence,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:06:47,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:06:47
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:18:17,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:18:17
+33,Choco Mawa Bar Cake 250 gms,ea,Barcakes & Muffins,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:18:17,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:18:17
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:18:17,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:18:17
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:18:25,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:18:25
+86,Milk Bread(400G),ea,Breads,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:18:38,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:18:38
+131,Whole Wheat Bread (400gms),ea,Breads,Product,Direct,IN,Rohith Manager,RohithMGR,2026-10-05 08:18:38,2026-10-05,Harley's - HYD - Nanakramguda,NAN,2026-10-05 08:18:38
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:40,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:40
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:40,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:40
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:40,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:40
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:40,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:40
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:40,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:40
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:40,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:40
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:36:56,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:36:56
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:11,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:11
+130,Tiramisu Tres leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:42,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:42
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:42,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:42
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:42,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:42
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:42,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:42
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:42,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:42
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:42,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:42
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 09:37:47,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 09:37:47
+35,Classic Butter Croissants (Pack Of 2),ea,Croissants,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:19
+131,Whole Wheat Bread (400gms),ea,Breads,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:27,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:27
+86,Milk Bread(400G),ea,Breads,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:27,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:27
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:35,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:35
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:35,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:35
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:35,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:35
+47,Double Chocolate Bar Cake (250 gms),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:35,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:35
+33,Choco Mawa Bar Cake 250 gms,ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:35,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:35
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:35,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:35
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:45
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:50,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:50
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:50,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:50
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:50,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:50
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:52:50,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:52:50
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:02,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:02
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:02,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:02
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:02,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:02
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:02,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:02
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:02,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:02
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:02,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:02
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:19,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:19
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:28,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:28
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:31
+131,Whole Wheat Bread (400gms),ea,Breads,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+86,Milk Bread(400G),ea,Breads,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+47,Double Chocolate Bar Cake (250 gms),ea,Barcakes & Muffins,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+33,Choco Mawa Bar Cake 250 gms,ea,Barcakes & Muffins,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:32,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:32
+130,Tiramisu Tres leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+131,Whole Wheat Bread (400gms),ea,Breads,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+86,Milk Bread(400G),ea,Breads,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+47,Double Chocolate Bar Cake (250 gms),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+33,Choco Mawa Bar Cake 250 gms,ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:53:37,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:37
+131,Whole Wheat Bread (400gms),ea,Breads,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+86,Milk Bread(400G),ea,Breads,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+130,Tiramisu Tres leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:53:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:45
+131,Whole Wheat Bread (400gms),ea,Breads,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 10:53:59,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:59
+86,Milk Bread(400G),ea,Breads,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 10:53:59,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:53:59
+130,Tiramisu Tres leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+98,Passion Fruit & Lemon Fusion Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 10:54:09,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:09
+NEW103,Classic Butter Croissant,ea,Croissants,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+98,Passion Fruit & Lemon Fusion Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+130,Tiramisu Tres leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:54:23,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:54:23
+98,Passion Fruit & Lemon Fusion Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,OUT,MGR TSP HYD,MGRTSP,2026-10-05 10:55:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 10:55:00
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:45,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:45
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:34:55,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:55
+TB28,Tiramisu Tres leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB27,Chocolate Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB26,Lotus Biscoff Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB25,Pistachio Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB24,Blueberry Tres Leches Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB23,Classic Mexican Tres Leches  Cake,ea,Tres Leches Party Cakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:34:57,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:34:57
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,MGR TSP HYD,MGRTSP,2026-10-05 11:35:00,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:00
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:10,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:10
+130,Tiramisu Tres leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:17,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:17
+106,Premium Blueberry Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:17,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:17
+104,Pistachio Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:17,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:17
+84,Lotus Biscoff Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:17,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:17
+36,Classic Mexican Tres Leches  (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:17,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:17
+24,Belgium Chocolate Tres Leches (Pack of 2),ea,Tres Leches Cakes (Mexican Special),Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:17,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:17
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,TAB2 TSP HYD,TABTSP2,2026-10-05 11:35:31,2026-10-05,Harley's - HYD - TSPA Junction,TSP,2026-10-05 11:35:31
+14,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAD HYD,MGRMAD,2026-10-05 08:37:46,2026-10-05,Harley's - HYD - Madhapur,MAD,2026-10-05 08:37:46
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAD HYD,MGRMAD,2026-10-05 08:37:46,2026-10-05,Harley's - HYD - Madhapur,MAD,2026-10-05 08:37:46
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAD HYD,MGRMAD,2026-10-05 08:37:46,2026-10-05,Harley's - HYD - Madhapur,MAD,2026-10-05 08:37:46
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAD HYD,MGRMAD,2026-10-05 08:37:46,2026-10-05,Harley's - HYD - Madhapur,MAD,2026-10-05 08:37:46
+74,Italian Tiramisu Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,MGR MAD HYD,MGRMAD,2026-10-05 11:53:39,2026-10-05,Harley's - HYD - Madhapur,MAD,2026-10-05 11:53:39
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,MGR MAD HYD,MGRMAD,2026-10-05 11:53:39,2026-10-05,Harley's - HYD - Madhapur,MAD,2026-10-05 11:53:39
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:18,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:18
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:18,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:18
+14,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:18,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:18
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:18,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:18
+14,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:28,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:28
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:28,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:28
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:28,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:28
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:28,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:28
+96,Pack Of 9 Cheesecakes And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:45,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:45
+94,Pack Of 6 Cheesecakes And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:45,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:45
+92,Pack Of 4 Cheesecakes And 4 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:06:45,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:45
+96,Pack Of 9 Cheesecakes And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:51,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:51
+94,Pack Of 6 Cheesecakes And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:51,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:51
+92,Pack Of 4 Cheesecakes And 4 Macarons,ea,All Time Favourite Combinations,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:06:51,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:06:51
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:02,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:02
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:08,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:08
+78,Lotus Biscoff Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:17,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:17
+51,Ferrero Nutella Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:17,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:17
+41,Danish Hazelnut Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:17,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:17
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:17,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:17
+21,Belgium Chocolate Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:17,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:17
+120,Smoky Caramel Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,MGR MAN HYD,MGRMAN,2026-10-05 08:07:17,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:17
+78,Lotus Biscoff Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:26,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:26
+51,Ferrero Nutella Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:26,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:26
+41,Danish Hazelnut Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:26,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:26
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:26,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:26
+21,Belgium Chocolate Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:26,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:26
+120,Smoky Caramel Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 08:07:26,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 08:07:26
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,OUT,MGR MAN HYD,MGRMAN,2026-10-05 10:15:16,2026-10-05,Harley's - HYD - Manikonda,MAN,2026-10-05 10:15:16
+82,Lotus Biscoff Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+14,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+K3G9,Customized Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+108,Premium Butterscotch Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+109,Premium Butterscotch Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+100,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+101,Pistachio Delight Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+67,Harley's Spl. Classic Russian Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+45,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:23,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:23
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:25:53,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:25:53
+TB13,Belgium Chocolate Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB12,Chocolate Truffle Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB11,Pistachio Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB10,Butterscotch Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB9,Lotus Biscoff Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB7,Caramel Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB5,Hazelnut Choco Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:05,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:05
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,ODE HYD,ODE1,2026-10-05 10:26:28,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 10:26:28
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,ODE HYD,ODE1,2026-10-05 11:31:00,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 11:31:00
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,ODE HYD,ODE1,2026-10-05 11:31:07,2026-10-05,Harlye's - HYD - Odeon Mall,ODE,2026-10-05 11:31:07
+124,Sparkling Dark Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,MGR KAP HYD,MGRKAP,2026-10-05 08:19:56,2026-10-05,Harley's - HYD - Kapil Towers,KAP,2026-10-05 08:19:56
+26,Blueberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 10:39:41,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 10:39:41
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 10:39:41,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 10:39:41
+111,Red Velvet Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 10:39:41,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 10:39:41
+85,Mighty Mango Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 10:39:41,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 10:39:41
+56,French Vanilla Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 10:39:41,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 10:39:41
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,CHA2 HYD,CHA2,2026-10-05 11:23:39,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 11:23:39
+105,Premium Banana Walnut Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 11:24:07,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 11:24:07
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,CHA2 HYD,CHA2,2026-10-05 11:24:07,2026-10-05,Harley's - HYD - Chandanagar,CHA,2026-10-05 11:24:07
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+72,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+73,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+14,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+59,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:10,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:10
+16,Austrian White Forest Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:21,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:21
+57,French Vanilla Rose Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:21,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:21
+TB8,Tiramisu Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:32,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:32
+TB6,Pink Vanilla Bento Cake,ea,Bento Party Cakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:32,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:32
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:15:50,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:15:50
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Manager KUK,ID381Q,2026-10-05 10:16:05,2026-10-05,Harley's - HYD - Kukatpally,KUK,2026-10-05 10:16:05
+67,Harley's Spl. Classic Russian Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Banjara Hills,BAN2,2026-10-05 09:24:13,2026-10-05,Harley's - HYD - Banjara Hills,BAN,2026-10-05 09:24:13
+66,Harley's Spl. Classic Russian Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Banjara Hills,BAN2,2026-10-05 09:24:13,2026-10-05,Harley's - HYD - Banjara Hills,BAN,2026-10-05 09:24:13
+68,Harley's Spl. Classic Russian Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,Banjara Hills,BAN2,2026-10-05 09:24:27,2026-10-05,Harley's - HYD - Banjara Hills,BAN,2026-10-05 09:24:27
+60,French Vanilla Strawberry Rose Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,GOP2 HYD,GOP2,2026-10-05 11:25:52,2026-10-05,Harley's - HYD - Gopanpally,GOP,2026-10-05 11:25:52
+15,Austrian White Forest Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,GOP2 HYD,GOP2,2026-10-05 11:25:52,2026-10-05,Harley's - HYD - Gopanpally,GOP,2026-10-05 11:25:52
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:54:39,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:54:39
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:54:39,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:54:39
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:54:39,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:54:39
+45,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:54:39,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:54:39
+64,Harley's Special Mawa Bar Cake (250 Gms),ea,Barcakes & Muffins,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:55:20,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:55:20
+34,Chocochip Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:55:20,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:55:20
+33,Choco Mawa Bar Cake 250 gms,ea,Barcakes & Muffins,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:55:20,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:55:20
+27,Blueberry Muffin (Pack Of 2),ea,Barcakes & Muffins,Product,Direct,IN,ATT HYD,ATT1,2026-10-05 08:55:20,2026-10-05,Harley's - HYD - Attapur,ATT,2026-10-05 08:55:20
+125,Strawberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+111,Red Velvet Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+98,Passion Fruit & Lemon Fusion Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+85,Mighty Mango Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+61,Green Apple Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+56,French Vanilla Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+37,Clementine Orange Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+26,Blueberry Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+23,Belgium Chocolate Macarons (Pack Of 5),ea,Harley's French Macarons,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:25,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:25
+135,Assorted French Macarons (Pack Of 24),ea,Harley's Sweet Home Assortments,Product,Direct,IN,KON HYD,KON1,2026-10-05 10:01:34,2026-10-05,Harley's - HYD - Kondapur,KON,2026-10-05 10:01:34
+54,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+53,Ferrero Nutella Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+127,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+128,Swiss Black & White Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+123,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+122,Sparkling Dark Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+115,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+114,Signature Belgium Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+45,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+44,Danish Hazelnut Chocolate Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,HAB HYD,HAB1,2026-10-05 08:07:54,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:07:54
+213,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,HAB HYD,HAB1,2026-10-05 08:29:35,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:29:35
+212,London Viral Whipped Caramel Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,OUT,HAB HYD,HAB1,2026-10-05 08:29:35,2026-10-05,Harley's - HYD - Habsiguda,HAB,2026-10-05 08:29:35
+73,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 09:50:24,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 09:50:24
+72,Italian Tiramisu Medovik Cake,ea,Harley's Grand Celebration Medovik Cakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 09:50:24,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 09:50:24
+63,Harley's Signatures (Pack of 8),ea,Chef's Table,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+49,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+50,Ferrero Nutella Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+19,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+20,Belgium Chocolate Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+119,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+118,Smoky Caramel Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+77,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+76,Lotus Biscoff Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+40,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+39,Danish Hazelnut Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+30,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+31,Chef's Favourite Blueberry Cheesecake,ea,Harley's Gourmet Celebration Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+78,Lotus Biscoff Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+51,Ferrero Nutella Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+41,Danish Hazelnut Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+21,Belgium Chocolate Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+120,Smoky Caramel Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB21,Lotus Biscoff Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB20,Nutella Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB19,Blueberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB18,Tiramisu Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB17,Strawberry Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB16,Caramel Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB15,Chocolate Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+TB14,Hazelnut Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:09:48,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:09:48
+132,Assorted Cheesecakes (Pack Of 12),ea,Harley's Sweet Home Assortments,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:10:17,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:10:17
+94,Pack Of 6 Cheesecakes And 12 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:10:17,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:10:17
+96,Pack Of 9 Cheesecakes And 6 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:10:17,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:10:17
+92,Pack Of 4 Cheesecakes And 4 Macarons,ea,All Time Favourite Combinations,Product,Direct,IN,Charminar,CHAR2,2026-10-05 10:10:17,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:10:17
+TB22,Pistachio Bento Cheesecake,ea,Party Cheesecakes,Product,Direct,OUT,Charminar,CHAR2,2026-10-05 10:11:09,2026-10-05,Harley's - HYD - Charminar,CHAR,2026-10-05 10:11:09
+78,Lotus Biscoff Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:45,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:45
+51,Ferrero Nutella Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:45,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:45
+41,Danish Hazelnut Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:45,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:45
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:45,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:45
+21,Belgium Chocolate Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:45,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:45
+120,Smoky Caramel Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:45,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:45
+83,Lotus Biscoff Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+74,Italian Tiramisu Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+68,Harley's Spl. Classic Russian Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+57,French Vanilla Rose Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+55,Ferrero Nutella Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+46,Danish Hazelnut Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+16,Austrian White Forest Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+129,Swiss Black & White Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+124,Sparkling Dark Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+116,Signature Belgium Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+102,Pistachio Delight Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+110,Premium Butterscotch Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,OUT,LAK GUN,ManagerGUN,2026-10-05 08:58:56,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 08:58:56
+78,Lotus Biscoff Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+51,Ferrero Nutella Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+41,Danish Hazelnut Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+32,Chef's Favourite Blueberry Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+21,Belgium Chocolate Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+120,Smoky Caramel Cheesecake With Macaron,ea,Finely Baked Cheesecake Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+83,Lotus Biscoff Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+74,Italian Tiramisu Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+68,Harley's Spl. Classic Russian Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+57,French Vanilla Rose Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+55,Ferrero Nutella Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+46,Danish Hazelnut Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+214,London Viral Whipped Caramel Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+16,Austrian White Forest Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+129,Swiss Black & White Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+124,Sparkling Dark Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+116,Signature Belgium Chocolate Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+102,Pistachio Delight Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
+110,Premium Butterscotch Medovik With Macaron,ea,Harley's Signature Medovik Pastry,Product,Direct,IN,LAK GUN,ManagerGUN,2026-10-05 10:14:06,2026-10-05,Harley's - GUN - Lakshmipuram,LAK,2026-10-05 10:14:06
