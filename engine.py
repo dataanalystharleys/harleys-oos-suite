@@ -298,7 +298,8 @@ def run_oos_pipeline(
 
     raw_save_path = os.path.join(date_dir, f"{target_date.strftime('%d-%b-%Y')} - Item sold out change history.csv")
     if isinstance(csv_input, str) and os.path.exists(csv_input):
-        shutil.copy2(csv_input, raw_save_path)
+        if os.path.abspath(csv_input) != os.path.abspath(raw_save_path):
+            shutil.copy2(csv_input, raw_save_path)
     else:
         df_raw.to_csv(raw_save_path, index=False)
 
@@ -655,29 +656,42 @@ def update_master_workbooks(date_dir, target_date, morning_items, evening_items)
     root_master = os.path.join(OOS_ROOT, "Oct-2026 OOS SUMMARY.xlsx")
     global_master = os.path.join(DOWNLOADS_DIR, "Oct-2026 OOS SUMMARY (1).xlsx")
     
-    for t_path in [date_master, root_master, global_master]:
-        if not os.path.exists(t_path):
-            if t_path in [date_master, root_master] and os.path.exists(MASTER_TEMPLATE_PATH):
-                shutil.copy2(MASTER_TEMPLATE_PATH, t_path)
-            else:
-                continue
-                
-        with open(t_path, 'rb') as f:
-            f_bytes = io.BytesIO(f.read())
-        wb = openpyxl.load_workbook(f_bytes)
+    base_src = None
+    for p in [date_master, root_master, global_master, MASTER_TEMPLATE_PATH]:
+        if os.path.exists(p):
+            base_src = p
+            break
+            
+    if not base_src:
+        return
         
-        if morning_items:
-            if sname_m in wb.sheetnames: del wb[sname_m]
-            ws_m = wb.create_sheet(title=sname_m)
-            populate_morning_excel_sheet(ws_m, target_date.strftime('%Y/%m/%d'), morning_items)
-            
-        if evening_items:
-            if sname_e in wb.sheetnames: del wb[sname_e]
-            ws_e = wb.create_sheet(title=sname_e)
-            populate_evening_excel_sheet(ws_e, target_date.strftime('%Y/%m/%d'), evening_items)
-            
-        tmp_p = t_path + ".tmp"
-        wb.save(tmp_p); wb.close()
-        if os.path.exists(t_path): os.remove(t_path)
-        shutil.move(tmp_p, t_path)
+    with open(base_src, 'rb') as f:
+        f_bytes = io.BytesIO(f.read())
+    wb = openpyxl.load_workbook(f_bytes)
+    
+    if morning_items:
+        if sname_m in wb.sheetnames: del wb[sname_m]
+        ws_m = wb.create_sheet(title=sname_m)
+        populate_morning_excel_sheet(ws_m, target_date.strftime('%Y/%m/%d'), morning_items)
+        
+    if evening_items:
+        if sname_e in wb.sheetnames: del wb[sname_e]
+        ws_e = wb.create_sheet(title=sname_e)
+        populate_evening_excel_sheet(ws_e, target_date.strftime('%Y/%m/%d'), evening_items)
+        
+    out_buf = io.BytesIO()
+    wb.save(out_buf)
+    wb.close()
+    out_data = out_buf.getvalue()
+    
+    targets = [date_master, root_master]
+    if os.path.exists(global_master):
+        targets.append(global_master)
+        
+    for t_path in targets:
+        try:
+            with open(t_path, 'wb') as f:
+                f.write(out_data)
+        except Exception:
+            pass
 
