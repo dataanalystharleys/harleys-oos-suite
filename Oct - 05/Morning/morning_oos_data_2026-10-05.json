@@ -101,6 +101,42 @@
   {
     "date": "2026/10/05",
     "city": "BLR",
+    "odoo": "KA-BLR-Cloud FC Basaveshwara Nagar",
+    "open_time": "09:00",
+    "rank": 8,
+    "item": "Assorted French Macarons (Pack Of 5)",
+    "resolved_in": "Unresolved"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "BLR",
+    "odoo": "KA-BLR-Cloud FC Electronic City",
+    "open_time": "09:00",
+    "rank": 8,
+    "item": "Signature Belgium Chocolate Medovik With Macaron",
+    "resolved_in": "Unresolved"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "BLR",
+    "odoo": "KA-BLR-Cloud FC Electronic City",
+    "open_time": "09:00",
+    "rank": 10,
+    "item": "Danish Hazelnut Chocolate Medovik With Macaron",
+    "resolved_in": "Unresolved"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "BLR",
+    "odoo": "KA-BLR-Cloud FC Electronic City",
+    "open_time": "09:00",
+    "rank": 19,
+    "item": "Pack Of 4 Medoviks And 4 Macarons",
+    "resolved_in": "Unresolved"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "BLR",
     "odoo": "KA-BLR-Cloud FC Malleshwaram",
     "open_time": "09:00",
     "rank": 4,
@@ -128,9 +164,9 @@
   {
     "date": "2026/10/05",
     "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC Whitefield",
-    "open_time": "09:00",
-    "rank": 20,
+    "odoo": "KA-BLR-Cloud FC Sarjapur",
+    "open_time": "10:00",
+    "rank": 17,
     "item": "Assorted French Macarons (Pack Of 12)",
     "resolved_in": "Unresolved"
   },
@@ -151,15 +187,6 @@
     "rank": 13,
     "item": "Assorted French Macarons (Pack Of 12)",
     "resolved_in": "11:43"
-  },
-  {
-    "date": "2026/10/05",
-    "city": "HYD",
-    "odoo": "TG-HYD-Cloud FC Attapur",
-    "open_time": "09:00",
-    "rank": 6,
-    "item": "Assorted Cheesecakes (Pack Of 6)",
-    "resolved_in": "Unresolved"
   },
   {
     "date": "2026/10/05",
@@ -272,10 +299,10 @@
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
+    "odoo": "MH-MUM-Cloud FC BKC",
     "open_time": "09:00",
-    "rank": 2,
-    "item": "Pack Of 4 Medoviks And 4 Macarons",
+    "rank": 12,
+    "item": "Assorted French Macarons (Pack Of 24)",
     "resolved_in": "Unresolved"
   },
   {
@@ -299,55 +326,46 @@
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
+    "odoo": "MH-MUM-Cloud FC Chembur",
     "open_time": "09:00",
-    "rank": 6,
-    "item": "Signature Belgium Chocolate Medovik With Macaron",
+    "rank": 3,
+    "item": "Assorted French Macarons (Pack Of 5)",
     "resolved_in": "Unresolved"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
+    "odoo": "MH-MUM-Cloud FC Chembur",
     "open_time": "09:00",
-    "rank": 11,
-    "item": "Italian Tiramisu Medovik With Macaron",
+    "rank": 10,
+    "item": "Assorted French Macarons (Pack Of 12)",
     "resolved_in": "Unresolved"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
+    "odoo": "MH-MUM-Cloud FC Chembur",
     "open_time": "09:00",
-    "rank": 13,
-    "item": "Danish Hazelnut Chocolate Medovik With Macaron",
+    "rank": 15,
+    "item": "Pack Of 4 Medoviks And 4 Macarons",
     "resolved_in": "Unresolved"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
+    "odoo": "MH-MUM-Cloud FC Chembur",
     "open_time": "09:00",
-    "rank": 18,
-    "item": "Chef's Favourite Blueberry Cheesecake With Macaron",
+    "rank": 17,
+    "item": "Pack Of 4 Cheesecakes And 4 Macarons",
     "resolved_in": "Unresolved"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
-    "open_time": "09:00",
-    "rank": 19,
-    "item": "Harley's Spl. Classic Russian Medovik With Macaron",
-    "resolved_in": "Unresolved"
-  },
-  {
-    "date": "2026/10/05",
-    "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Borivali",
+    "odoo": "MH-MUM-Cloud FC Chembur",
     "open_time": "09:00",
     "rank": 20,
-    "item": "Pack Of 4 Cheesecakes And 4 Macarons",
+    "item": "Pack Of 9 Medoviks And 6 Macarons",
     "resolved_in": "Unresolved"
   },
   {
@@ -357,6 +375,15 @@
     "open_time": "11:00",
     "rank": 9,
     "item": "Italian Tiramisu Medovik With Macaron",
+    "resolved_in": "Unresolved"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "MUM",
+    "odoo": "MH-MUM-Express Outlet Palladium",
+    "open_time": "11:00",
+    "rank": 13,
+    "item": "Italian Cappuccino",
     "resolved_in": "Unresolved"
   },
   {
