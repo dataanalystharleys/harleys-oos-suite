@@ -77,9 +77,18 @@ if nav_choice == "🚀 Run OOS Reports":
             help="Drag and drop or select the daily change history export file"
         )
         
-        # Also check if recent CSVs exist in Downloads
-        recent_csvs = glob.glob(os.path.join(engine.DOWNLOADS_DIR, "*change history*.csv"))
-        recent_csvs.sort(key=os.path.getmtime, reverse=True)
+        # Also check if recent CSVs exist in Downloads or bundled in repo
+        csv_candidates = glob.glob(os.path.join(engine.DOWNLOADS_DIR, "*change history*.csv"))
+        for d in [engine.OOS_ROOT, os.path.dirname(os.path.abspath(__file__))]:
+            csv_candidates.extend(glob.glob(os.path.join(d, "**", "*change history*.csv"), recursive=True))
+        
+        seen_basenames = set()
+        recent_csvs = []
+        for p in sorted(csv_candidates, key=os.path.getmtime, reverse=True):
+            b = os.path.basename(p)
+            if b not in seen_basenames:
+                seen_basenames.add(b)
+                recent_csvs.append(p)
         
         selected_local_file = None
         if not uploaded_file and recent_csvs:
