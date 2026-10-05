@@ -1,7 +1,18 @@
 import streamlit as st
 import pandas as pd
-import json, os, glob, datetime, io
+import json, os, glob, datetime, io, zipfile
 import engine
+
+def create_zip_of_images(png_dict, all_png):
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
+        if all_png and os.path.exists(all_png):
+            zf.write(all_png, os.path.basename(all_png))
+        for c, p in png_dict.items():
+            if p and os.path.exists(p):
+                zf.write(p, os.path.basename(p))
+    buf.seek(0)
+    return buf
 
 # Page configuration
 st.set_page_config(
@@ -177,12 +188,25 @@ if nav_choice == "🚀 Run OOS Reports":
                 m_data = res['morning']
                 st.markdown(f"#### Morning OOS ({m_data['total_items']} items across {m_data['total_outlets']} outlets)")
                 
-                with open(m_data['excel_path'], "rb") as fp:
+                # Download actions bar
+                dl_m1, dl_m2 = st.columns(2)
+                with dl_m1:
+                    with open(m_data['excel_path'], "rb") as fp:
+                        st.download_button(
+                            label="📥 Download Morning Excel Workbook (.xlsx)",
+                            data=fp,
+                            file_name=os.path.basename(m_data['excel_path']),
+                            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                            use_container_width=True
+                        )
+                with dl_m2:
+                    m_zip_buf = create_zip_of_images(m_data['city_pngs'], m_data['png_all'])
                     st.download_button(
-                        label="📥 Download Morning Excel Workbook (.xlsx)",
-                        data=fp,
-                        file_name=os.path.basename(m_data['excel_path']),
-                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                        label="📦 Download All Morning Screenshots (.zip)",
+                        data=m_zip_buf,
+                        file_name=f"Morning_OOS_Screenshots_{res['date_dash']}.zip",
+                        mime="application/zip",
+                        use_container_width=True
                     )
 
                 city_sel_m = st.selectbox(
@@ -205,6 +229,15 @@ if nav_choice == "🚀 Run OOS Reports":
                 
                 img_path = m_data['png_all'] if city_sel_m == "ALL CITIES" else m_data['city_pngs'].get(city_sel_m)
                 if img_path and os.path.exists(img_path):
+                    with open(img_path, "rb") as img_f:
+                        st.download_button(
+                            label=f"📸 Download {city_sel_m} Screenshot ({os.path.basename(img_path)})",
+                            data=img_f,
+                            file_name=os.path.basename(img_path),
+                            mime="image/png",
+                            type="secondary",
+                            use_container_width=True
+                        )
                     st.image(img_path, caption=f"Morning Screenshot: {city_sel_m}", use_container_width=True)
             else:
                 st.info("Morning report was not selected for this run.")
@@ -215,12 +248,25 @@ if nav_choice == "🚀 Run OOS Reports":
                 e_data = res['evening']
                 st.markdown(f"#### Evening OOS ({e_data['total_items']} total items: {e_data['still_out']} Still OUT, {e_data['restored_in']} Restored IN)")
                 
-                with open(e_data['excel_path'], "rb") as fp:
+                # Download actions bar
+                dl_e1, dl_e2 = st.columns(2)
+                with dl_e1:
+                    with open(e_data['excel_path'], "rb") as fp:
+                        st.download_button(
+                            label="📥 Download Evening Excel Workbook (.xlsx)",
+                            data=fp,
+                            file_name=os.path.basename(e_data['excel_path']),
+                            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                            use_container_width=True
+                        )
+                with dl_e2:
+                    e_zip_buf = create_zip_of_images(e_data['city_pngs'], e_data['png_all'])
                     st.download_button(
-                        label="📥 Download Evening Excel Workbook (.xlsx)",
-                        data=fp,
-                        file_name=os.path.basename(e_data['excel_path']),
-                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                        label="📦 Download All Evening Screenshots (.zip)",
+                        data=e_zip_buf,
+                        file_name=f"Evening_OOS_Screenshots_{res['date_dash']}.zip",
+                        mime="application/zip",
+                        use_container_width=True
                     )
 
                 city_sel_e = st.selectbox(
@@ -243,6 +289,15 @@ if nav_choice == "🚀 Run OOS Reports":
                 
                 img_path_e = e_data['png_all'] if city_sel_e == "ALL CITIES" else e_data['city_pngs'].get(city_sel_e)
                 if img_path_e and os.path.exists(img_path_e):
+                    with open(img_path_e, "rb") as img_f_e:
+                        st.download_button(
+                            label=f"📸 Download {city_sel_e} Screenshot ({os.path.basename(img_path_e)})",
+                            data=img_f_e,
+                            file_name=os.path.basename(img_path_e),
+                            mime="image/png",
+                            type="secondary",
+                            use_container_width=True
+                        )
                     st.image(img_path_e, caption=f"Evening Screenshot with Status: {city_sel_e}", use_container_width=True)
             else:
                 st.info("Evening report was not selected for this run.")
