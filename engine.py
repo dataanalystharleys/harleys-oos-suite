@@ -395,7 +395,8 @@ def run_oos_pipeline(
         m_all_rows = build_morning_display_rows(morning_list)
         m_all_banner = f"MORNING OOS REPORT (OPENING)   |   Total Outlets: {len(set(x['odoo'] for x in morning_list))}   |   Total Items with OOS: {len(morning_list)}"
         m_png_all = os.path.join(morning_dir, f"Morning_OOS_Summary_ALL_CITIES_{date_str_dash}.png")
-        render_table_image(date_str_slash, m_all_banner, m_cols, m_all_rows, [m_png_all], is_evening=False)
+        m_png_all_city = os.path.join(date_dir, "ALL CITIES", f"Morning_OOS_Summary_ALL_CITIES_{date_str_dash}.png")
+        render_table_image(date_str_slash, m_all_banner, m_cols, m_all_rows, [m_png_all, m_png_all_city], is_evening=False)
 
         m_city_pngs = {}
         for c in ['AP', 'BLR', 'HYD', 'MUM', 'PUN']:
@@ -404,7 +405,8 @@ def run_oos_pipeline(
                 c_rows = build_morning_display_rows(c_items)
                 c_banner = f"MORNING OOS [{c}]   |   Total Outlets: {len(set(x['odoo'] for x in c_items))}   |   Total Items with OOS: {len(c_items)}"
                 c_png = os.path.join(morning_dir, f"Morning_OOS_Summary_{c}_{date_str_dash}.png")
-                render_table_image(date_str_slash, c_banner, m_cols, c_rows, [c_png], is_evening=False)
+                c_png_city = os.path.join(date_dir, c, f"Morning_OOS_Summary_{c}_{date_str_dash}.png")
+                render_table_image(date_str_slash, c_banner, m_cols, c_rows, [c_png, c_png_city], is_evening=False)
                 m_city_pngs[c] = c_png
 
         results['morning'] = {
@@ -484,7 +486,8 @@ def run_oos_pipeline(
         in_tot = sum(1 for x in evening_combined if x['status'] == 'IN')
         e_all_banner = f"EVENING OOS STATUS (5:00 PM CUTOFF)   |   Total: {len(evening_combined)}   |   Still OUT: {out_tot}   |   Restored IN: {in_tot}"
         e_png_all = os.path.join(evening_dir, f"Evening_OOS_Summary_ALL_CITIES_{date_str_dash}.png")
-        render_table_image(date_str_slash, e_all_banner, e_cols, e_all_rows, [e_png_all], is_evening=True)
+        e_png_all_city = os.path.join(date_dir, "ALL CITIES", f"Evening_OOS_Summary_ALL_CITIES_{date_str_dash}.png")
+        render_table_image(date_str_slash, e_all_banner, e_cols, e_all_rows, [e_png_all, e_png_all_city], is_evening=True)
 
         e_city_pngs = {}
         for c in ['AP', 'BLR', 'HYD', 'MUM', 'PUN']:
@@ -495,7 +498,8 @@ def run_oos_pipeline(
                 c_in = sum(1 for x in c_items if x['status'] == 'IN')
                 c_banner = f"EVENING OOS STATUS [{c}] (5:00 PM CUTOFF)   |   Total: {len(c_items)}   |   Still OUT: {c_out}   |   Restored IN: {c_in}"
                 c_png = os.path.join(evening_dir, f"Evening_OOS_Summary_{c}_{date_str_dash}.png")
-                render_table_image(date_str_slash, c_banner, e_cols, c_rows, [c_png], is_evening=True)
+                c_png_city = os.path.join(date_dir, c, f"Evening_OOS_Summary_{c}_{date_str_dash}.png")
+                render_table_image(date_str_slash, c_banner, e_cols, c_rows, [c_png, c_png_city], is_evening=True)
                 e_city_pngs[c] = c_png
 
         results['evening'] = {
@@ -648,12 +652,13 @@ def update_master_workbooks(date_dir, target_date, morning_items, evening_items)
     sname_e = f"EVENING OOS ({s_day})"
     
     date_master = os.path.join(date_dir, "Oct-2026 OOS SUMMARY.xlsx")
+    root_master = os.path.join(OOS_ROOT, "Oct-2026 OOS SUMMARY.xlsx")
     global_master = os.path.join(DOWNLOADS_DIR, "Oct-2026 OOS SUMMARY (1).xlsx")
     
-    for t_path in [date_master, global_master]:
+    for t_path in [date_master, root_master, global_master]:
         if not os.path.exists(t_path):
-            if t_path == date_master and os.path.exists(MASTER_TEMPLATE_PATH):
-                shutil.copy2(MASTER_TEMPLATE_PATH, date_master)
+            if t_path in [date_master, root_master] and os.path.exists(MASTER_TEMPLATE_PATH):
+                shutil.copy2(MASTER_TEMPLATE_PATH, t_path)
             else:
                 continue
                 

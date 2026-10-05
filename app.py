@@ -61,10 +61,6 @@ nav_choice = st.sidebar.radio(
     index=0
 )
 
-st.sidebar.markdown("---")
-st.sidebar.markdown("**OOS Storage Directory:**")
-st.sidebar.code(engine.OOS_ROOT, language="text")
-
 # -------------------------------------------------------------
 # TAB 1: RUN OOS REPORTS
 # -------------------------------------------------------------
@@ -87,11 +83,11 @@ if nav_choice == "🚀 Run OOS Reports":
         
         selected_local_file = None
         if not uploaded_file and recent_csvs:
-            st.info("💡 Or pick a recent file found directly in your Downloads folder:")
+            st.info("💡 Or pick a recent export file:")
             selected_local_file = st.selectbox(
-                "Recent CSV Exports in Downloads:",
+                "Recent CSV Exports:",
                 options=[None] + recent_csvs[:10],
-                format_func=lambda x: "Choose from Downloads..." if x is None else os.path.basename(x)
+                format_func=lambda x: "Choose export..." if x is None else os.path.basename(x)
             )
 
     active_csv = uploaded_file or selected_local_file
@@ -176,7 +172,7 @@ if nav_choice == "🚀 Run OOS Reports":
             kpi_cols[3].metric("Evening Restored IN", res['evening']['restored_in'])
 
         if hasattr(os, 'startfile'):
-            if st.button("📂 Open Output Folder in Windows Explorer"):
+            if st.button("📂 Open Output Folder"):
                 os.startfile(res['date_dir'])
 
         # Detailed Report Tabs
@@ -393,28 +389,31 @@ elif nav_choice == "🕒 Outlet Timings Manager":
 # -------------------------------------------------------------
 elif nav_choice == "📁 Browse Past Reports":
     st.markdown('<div class="main-header">📁 Past Reports Archive</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header">Browse previously generated OOS reports and screenshots stored in your `oos` folder.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header">Browse previously generated OOS reports and screenshots.</div>', unsafe_allow_html=True)
 
     past_folders = [d for d in glob.glob(os.path.join(engine.OOS_ROOT, "*")) if os.path.isdir(d) and os.path.basename(d) not in ['tool', '__pycache__', '.streamlit']]
     past_folders.sort(key=os.path.getmtime, reverse=True)
 
     if not past_folders:
-        st.info("No past folders found in `oos` root.")
+        st.info("No past folders found.")
     else:
         for fpath in past_folders:
             fname = os.path.basename(fpath)
             with st.expander(f"📁 {fname} (Modified: {datetime.datetime.fromtimestamp(os.path.getmtime(fpath)).strftime('%Y-%m-%d %H:%M')})", expanded=(fname == "Oct - 05")):
                 sub_cols = st.columns([2, 1])
                 with sub_cols[0]:
-                    files_in_dir = os.listdir(fpath)
-                    st.write(f"**Files:** {', '.join(files_in_dir)}")
-                    
                     m_path = os.path.join(fpath, "Morning")
                     e_path = os.path.join(fpath, "Evening")
                     if os.path.exists(m_path):
-                        st.markdown("- 🌅 **Morning Subfolder:** Present")
+                        st.markdown("- 🌅 **Morning Report:** Present")
                     if os.path.exists(e_path):
-                        st.markdown("- 🌆 **Evening Subfolder:** Present")
+                        st.markdown("- 🌆 **Evening Report:** Present")
+                    city_subdirs = [c for c in ['ALL CITIES', 'AP', 'BLR', 'HYD', 'MUM', 'PUN'] if os.path.isdir(os.path.join(fpath, c))]
+                    if city_subdirs:
+                        st.markdown(f"- 🏙️ **City Subfolders:** {', '.join(city_subdirs)}")
+                    master_f = os.path.join(fpath, "Oct-2026 OOS SUMMARY.xlsx")
+                    if os.path.exists(master_f):
+                        st.markdown("- 📊 **Summary Workbook:** Present")
                         
                 with sub_cols[1]:
                     if hasattr(os, 'startfile'):
