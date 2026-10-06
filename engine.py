@@ -329,11 +329,19 @@ def run_oos_pipeline(
         'evening': None
     }
 
+    active_outlets_today = set()
+    for raw_b in df_raw['Branch Name'].dropna().unique():
+        raw_b_str = str(raw_b).strip()
+        odoo_b = supp_lower.get(raw_b_str.lower(), raw_b_str)
+        active_outlets_today.add(odoo_b)
+
     # 1. MORNING
     morning_list = []
     if run_morning:
         log("Evaluating Morning OOS status at outlet opening hours...")
         for (odoo, item), evs in by_pair.items():
+            if odoo not in active_outlets_today:
+                continue
             city = get_city(odoo)
             rank = top20[(odoo, item)]
             op_time_str = get_outlet_opening_time(odoo, target_date, timings_db)
@@ -403,13 +411,20 @@ def run_oos_pipeline(
         m_city_pngs = {}
         for c in ACTIVE_CITIES:
             c_items = [x for x in morning_list if x['city'] == c]
+            c_png = os.path.join(morning_dir, f"Morning_OOS_Summary_{c}_{date_str_dash}.png")
+            c_png_city = os.path.join(date_dir, c, f"Morning_OOS_Summary_{c}_{date_str_dash}.png")
             if c_items:
                 c_rows = build_morning_display_rows(c_items)
                 c_banner = f"MORNING OOS [{c}]   |   Total Outlets: {len(set(x['odoo'] for x in c_items))}   |   Total Items with OOS: {len(c_items)}"
-                c_png = os.path.join(morning_dir, f"Morning_OOS_Summary_{c}_{date_str_dash}.png")
-                c_png_city = os.path.join(date_dir, c, f"Morning_OOS_Summary_{c}_{date_str_dash}.png")
                 render_table_image(date_str_slash, c_banner, m_cols, c_rows, [c_png, c_png_city], is_evening=False)
                 m_city_pngs[c] = c_png
+            else:
+                if os.path.exists(c_png):
+                    try: os.remove(c_png)
+                    except Exception: pass
+                if os.path.exists(c_png_city):
+                    try: os.remove(c_png_city)
+                    except Exception: pass
 
         results['morning'] = {
             'total_items': len(morning_list),
@@ -429,6 +444,8 @@ def run_oos_pipeline(
         
         e_dict_items = {}
         for (odoo, item), evs in by_pair.items():
+            if odoo not in active_outlets_today:
+                continue
             evs_up_to_cutoff = [x for x in evs if x['dt'] <= cutoff_dt]
             if evs_up_to_cutoff and evs_up_to_cutoff[-1]['in_out'] == 'OUT':
                 e_dict_items[(odoo, item)] = evs_up_to_cutoff[-1]
@@ -494,15 +511,22 @@ def run_oos_pipeline(
         e_city_pngs = {}
         for c in ACTIVE_CITIES:
             c_items = [x for x in evening_combined if x['city'] == c]
+            c_png = os.path.join(evening_dir, f"Evening_OOS_Summary_{c}_{date_str_dash}.png")
+            c_png_city = os.path.join(date_dir, c, f"Evening_OOS_Summary_{c}_{date_str_dash}.png")
             if c_items:
                 c_rows = build_evening_display_rows(c_items)
                 c_out = sum(1 for x in c_items if x['status'] == 'OUT')
                 c_in = sum(1 for x in c_items if x['status'] == 'IN')
                 c_banner = f"EVENING OOS STATUS [{c}] (5:00 PM CUTOFF)   |   Total: {len(c_items)}   |   Still OUT: {c_out}   |   Restored IN: {c_in}"
-                c_png = os.path.join(evening_dir, f"Evening_OOS_Summary_{c}_{date_str_dash}.png")
-                c_png_city = os.path.join(date_dir, c, f"Evening_OOS_Summary_{c}_{date_str_dash}.png")
                 render_table_image(date_str_slash, c_banner, e_cols, c_rows, [c_png, c_png_city], is_evening=True)
                 e_city_pngs[c] = c_png
+            else:
+                if os.path.exists(c_png):
+                    try: os.remove(c_png)
+                    except Exception: pass
+                if os.path.exists(c_png_city):
+                    try: os.remove(c_png_city)
+                    except Exception: pass
 
         results['evening'] = {
             'total_items': len(evening_combined),

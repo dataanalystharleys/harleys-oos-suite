@@ -86,8 +86,8 @@
     "odoo": "KA-BLR-Cloud FC Arekere",
     "rank": 11,
     "item": "Signature Belgium Chocolate Medovik With Macaron",
-    "status": "OUT",
-    "note": "Still OUT"
+    "status": "IN",
+    "note": "Restored IN at 16:40"
   },
   {
     "date": "2026/10/05",
@@ -95,44 +95,53 @@
     "odoo": "KA-BLR-Cloud FC Arekere",
     "rank": 16,
     "item": "Danish Hazelnut Chocolate Medovik With Macaron",
-    "status": "OUT",
-    "note": "Still OUT"
+    "status": "IN",
+    "note": "Restored IN at 16:40"
   },
   {
     "date": "2026/10/05",
     "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC Basaveshwara Nagar",
+    "odoo": "KA-BLR-Cloud FC Bellandur",
     "rank": 8,
-    "item": "Assorted French Macarons (Pack Of 5)",
-    "status": "OUT",
-    "note": "Still OUT"
+    "item": "Assorted Cheesecakes (Pack Of 6)",
+    "status": "IN",
+    "note": "Restored IN at 13:02"
   },
   {
     "date": "2026/10/05",
     "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC Electronic City",
-    "rank": 8,
-    "item": "Signature Belgium Chocolate Medovik With Macaron",
-    "status": "OUT",
-    "note": "Still OUT"
-  },
-  {
-    "date": "2026/10/05",
-    "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC Electronic City",
+    "odoo": "KA-BLR-Cloud FC Bellandur",
     "rank": 10,
-    "item": "Danish Hazelnut Chocolate Medovik With Macaron",
-    "status": "OUT",
-    "note": "Still OUT"
+    "item": "Assorted Medoviks (Pack Of 6)",
+    "status": "IN",
+    "note": "Restored IN at 13:02"
   },
   {
     "date": "2026/10/05",
     "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC Electronic City",
-    "rank": 19,
+    "odoo": "KA-BLR-Cloud FC Bellandur",
+    "rank": 12,
+    "item": "Pack Of 4 Cheesecakes And 4 Macarons",
+    "status": "IN",
+    "note": "Restored IN at 13:02"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "BLR",
+    "odoo": "KA-BLR-Cloud FC Bellandur",
+    "rank": 14,
+    "item": "Harley's Signatures (Pack of 8)",
+    "status": "IN",
+    "note": "Restored IN at 17:47"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "BLR",
+    "odoo": "KA-BLR-Cloud FC Bellandur",
+    "rank": 15,
     "item": "Pack Of 4 Medoviks And 4 Macarons",
-    "status": "OUT",
-    "note": "Still OUT"
+    "status": "IN",
+    "note": "Restored IN at 13:02"
   },
   {
     "date": "2026/10/05",
@@ -164,47 +173,20 @@
   {
     "date": "2026/10/05",
     "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC NBL",
-    "rank": 3,
-    "item": "Pack Of 4 Medoviks And 4 Macarons",
-    "status": "OUT",
-    "note": "Went OUT at 11:09"
-  },
-  {
-    "date": "2026/10/05",
-    "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC NBL",
-    "rank": 11,
-    "item": "Pack Of 4 Cheesecakes And 4 Macarons",
-    "status": "OUT",
-    "note": "Went OUT at 11:09"
-  },
-  {
-    "date": "2026/10/05",
-    "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC NBL",
-    "rank": 15,
-    "item": "Assorted French Macarons (Pack Of 5)",
-    "status": "OUT",
-    "note": "Went OUT at 11:09"
-  },
-  {
-    "date": "2026/10/05",
-    "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC NBL",
-    "rank": 16,
+    "odoo": "KA-BLR-Cloud FC Nagawara",
+    "rank": 20,
     "item": "Assorted French Macarons (Pack Of 12)",
-    "status": "OUT",
-    "note": "Went OUT at 11:09"
+    "status": "IN",
+    "note": "Restored IN at 16:49"
   },
   {
     "date": "2026/10/05",
     "city": "BLR",
-    "odoo": "KA-BLR-Cloud FC Sarjapur",
-    "rank": 17,
+    "odoo": "KA-BLR-Cloud FC Whitefield",
+    "rank": 20,
     "item": "Assorted French Macarons (Pack Of 12)",
-    "status": "OUT",
-    "note": "Still OUT"
+    "status": "IN",
+    "note": "Restored IN at 13:06"
   },
   {
     "date": "2026/10/05",
@@ -228,6 +210,15 @@
     "date": "2026/10/05",
     "city": "HYD",
     "odoo": "TG-HYD-Cloud FC Attapur",
+    "rank": 6,
+    "item": "Assorted Cheesecakes (Pack Of 6)",
+    "status": "OUT",
+    "note": "Still OUT"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "HYD",
+    "odoo": "TG-HYD-Cloud FC Attapur",
     "rank": 8,
     "item": "Chef's Favourite Blueberry Cheesecake With Macaron",
     "status": "OUT",
@@ -241,6 +232,15 @@
     "item": "Lotus Biscoff Cheesecake With Macaron",
     "status": "OUT",
     "note": "Still OUT"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "HYD",
+    "odoo": "TG-HYD-Cloud FC Charminar",
+    "rank": 3,
+    "item": "Assorted Cheesecakes (Pack Of 6)",
+    "status": "IN",
+    "note": "Restored IN at 15:48"
   },
   {
     "date": "2026/10/05",
@@ -308,6 +308,15 @@
   {
     "date": "2026/10/05",
     "city": "HYD",
+    "odoo": "TG-HYD-Express Outlet Kapil Tower",
+    "rank": 5,
+    "item": "Assorted Cheesecakes (Pack Of 6)",
+    "status": "IN",
+    "note": "Restored IN at 12:33"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "HYD",
     "odoo": "TG-HYD-Express Outlet Madhapur",
     "rank": 19,
     "item": "Italian Tiramisu Medovik With Macaron",
@@ -320,8 +329,8 @@
     "odoo": "TG-HYD-Express Outlet Manikonda",
     "rank": 15,
     "item": "Chef's Favourite Blueberry Cheesecake With Macaron",
-    "status": "OUT",
-    "note": "Still OUT"
+    "status": "IN",
+    "note": "Restored IN at 08:07"
   },
   {
     "date": "2026/10/05",
@@ -334,19 +343,10 @@
   },
   {
     "date": "2026/10/05",
-    "city": "HYD",
-    "odoo": "TG-HYD-Express Outlet Sainikpuri",
-    "rank": 19,
-    "item": "Chef's Favourite Blueberry Cheesecake With Macaron",
-    "status": "OUT",
-    "note": "Went OUT at 10:57"
-  },
-  {
-    "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC BKC",
-    "rank": 12,
-    "item": "Assorted French Macarons (Pack Of 24)",
+    "odoo": "MH-MUM-Cloud FC Borivali",
+    "rank": 2,
+    "item": "Pack Of 4 Medoviks And 4 Macarons",
     "status": "OUT",
     "note": "Still OUT"
   },
@@ -371,45 +371,54 @@
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Chembur",
-    "rank": 3,
-    "item": "Assorted French Macarons (Pack Of 5)",
+    "odoo": "MH-MUM-Cloud FC Borivali",
+    "rank": 6,
+    "item": "Signature Belgium Chocolate Medovik With Macaron",
     "status": "OUT",
     "note": "Still OUT"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Chembur",
-    "rank": 10,
-    "item": "Assorted French Macarons (Pack Of 12)",
+    "odoo": "MH-MUM-Cloud FC Borivali",
+    "rank": 11,
+    "item": "Italian Tiramisu Medovik With Macaron",
     "status": "OUT",
     "note": "Still OUT"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Chembur",
-    "rank": 15,
-    "item": "Pack Of 4 Medoviks And 4 Macarons",
+    "odoo": "MH-MUM-Cloud FC Borivali",
+    "rank": 13,
+    "item": "Danish Hazelnut Chocolate Medovik With Macaron",
     "status": "OUT",
     "note": "Still OUT"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Chembur",
-    "rank": 17,
-    "item": "Pack Of 4 Cheesecakes And 4 Macarons",
+    "odoo": "MH-MUM-Cloud FC Borivali",
+    "rank": 18,
+    "item": "Chef's Favourite Blueberry Cheesecake With Macaron",
     "status": "OUT",
     "note": "Still OUT"
   },
   {
     "date": "2026/10/05",
     "city": "MUM",
-    "odoo": "MH-MUM-Cloud FC Chembur",
+    "odoo": "MH-MUM-Cloud FC Borivali",
+    "rank": 19,
+    "item": "Harley's Spl. Classic Russian Medovik With Macaron",
+    "status": "OUT",
+    "note": "Still OUT"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "MUM",
+    "odoo": "MH-MUM-Cloud FC Borivali",
     "rank": 20,
-    "item": "Pack Of 9 Medoviks And 6 Macarons",
+    "item": "Pack Of 4 Cheesecakes And 4 Macarons",
     "status": "OUT",
     "note": "Still OUT"
   },
@@ -424,20 +433,20 @@
   },
   {
     "date": "2026/10/05",
-    "city": "MUM",
-    "odoo": "MH-MUM-Express Outlet Palladium",
-    "rank": 13,
-    "item": "Italian Cappuccino",
-    "status": "OUT",
-    "note": "Still OUT"
-  },
-  {
-    "date": "2026/10/05",
     "city": "PUN",
     "odoo": "MH-PUN-Cloud FC Tathewadi",
     "rank": 14,
     "item": "Harley's Special Mawa Bar Cake (250 Gms)",
     "status": "OUT",
     "note": "Still OUT"
+  },
+  {
+    "date": "2026/10/05",
+    "city": "PUN",
+    "odoo": "MH-PUN-Express Outlet Vimannagar",
+    "rank": 10,
+    "item": "Italian Tiramisu Medovik With Macaron",
+    "status": "OUT",
+    "note": "Went OUT at 13:31"
   }
 ]

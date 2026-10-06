@@ -14,3 +14,4 @@ if %ERRORLEVEL% NEQ 0 (
     echo Tool stopped or exited with an error.
     pause
 )
+
