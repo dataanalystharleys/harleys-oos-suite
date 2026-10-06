@@ -44,6 +44,7 @@ align_center = Alignment(horizontal="center", vertical="center")
 align_left = Alignment(horizontal="left", vertical="center")
 
 CITY_ORDER = {'AP': 1, 'BLR': 2, 'HYD': 3, 'MUM': 4, 'NCR': 5, 'PUN': 6}
+ACTIVE_CITIES = ['AP', 'BLR', 'HYD', 'MUM', 'NCR', 'PUN']
 
 def get_city(branch_name):
     b = str(branch_name).upper()
@@ -379,7 +380,7 @@ def run_oos_pipeline(
         wb_m = openpyxl.Workbook()
         ws_all_m = wb_m.active; ws_all_m.title = "ALL CITIES"
         populate_morning_excel_sheet(ws_all_m, date_str_slash, morning_list)
-        for c in ['AP', 'BLR', 'HYD', 'MUM', 'PUN']:
+        for c in ACTIVE_CITIES:
             c_items = [x for x in morning_list if x['city'] == c]
             if c_items:
                 ws_c = wb_m.create_sheet(title=c)
@@ -400,7 +401,7 @@ def run_oos_pipeline(
         render_table_image(date_str_slash, m_all_banner, m_cols, m_all_rows, [m_png_all, m_png_all_city], is_evening=False)
 
         m_city_pngs = {}
-        for c in ['AP', 'BLR', 'HYD', 'MUM', 'PUN']:
+        for c in ACTIVE_CITIES:
             c_items = [x for x in morning_list if x['city'] == c]
             if c_items:
                 c_rows = build_morning_display_rows(c_items)
@@ -468,7 +469,7 @@ def run_oos_pipeline(
         wb_e = openpyxl.Workbook()
         ws_all_e = wb_e.active; ws_all_e.title = "ALL CITIES"
         populate_evening_excel_sheet(ws_all_e, date_str_slash, evening_combined)
-        for c in ['AP', 'BLR', 'HYD', 'MUM', 'PUN']:
+        for c in ACTIVE_CITIES:
             c_items = [x for x in evening_combined if x['city'] == c]
             if c_items:
                 ws_c = wb_e.create_sheet(title=c)
@@ -491,7 +492,7 @@ def run_oos_pipeline(
         render_table_image(date_str_slash, e_all_banner, e_cols, e_all_rows, [e_png_all, e_png_all_city], is_evening=True)
 
         e_city_pngs = {}
-        for c in ['AP', 'BLR', 'HYD', 'MUM', 'PUN']:
+        for c in ACTIVE_CITIES:
             c_items = [x for x in evening_combined if x['city'] == c]
             if c_items:
                 c_rows = build_evening_display_rows(c_items)

@@ -216,7 +216,7 @@ if nav_choice == "🚀 Run OOS Reports":
 
                 city_sel_m = st.selectbox(
                     "View Morning Data & Screenshot for:",
-                    ["ALL CITIES", "AP", "BLR", "HYD", "MUM", "PUN"],
+                    ["ALL CITIES", "AP", "BLR", "HYD", "MUM", "NCR", "PUN"],
                     key="morning_city_select"
                 )
                 
@@ -276,7 +276,7 @@ if nav_choice == "🚀 Run OOS Reports":
 
                 city_sel_e = st.selectbox(
                     "View Evening Data & Screenshot for:",
-                    ["ALL CITIES", "AP", "BLR", "HYD", "MUM", "PUN"],
+                    ["ALL CITIES", "AP", "BLR", "HYD", "MUM", "NCR", "PUN"],
                     key="evening_city_select"
                 )
                 
@@ -417,7 +417,7 @@ elif nav_choice == "📁 Browse Past Reports":
                         st.markdown("- 🌅 **Morning Report:** Present")
                     if os.path.exists(e_path):
                         st.markdown("- 🌆 **Evening Report:** Present")
-                    city_subdirs = [c for c in ['ALL CITIES', 'AP', 'BLR', 'HYD', 'MUM', 'PUN'] if os.path.isdir(os.path.join(fpath, c))]
+                    city_subdirs = [c for c in ['ALL CITIES', 'AP', 'BLR', 'HYD', 'MUM', 'NCR', 'PUN'] if os.path.isdir(os.path.join(fpath, c))]
                     if city_subdirs:
                         st.markdown(f"- 🏙️ **City Subfolders:** {', '.join(city_subdirs)}")
                     master_f = os.path.join(fpath, "Oct-2026 OOS SUMMARY.xlsx")
